@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfiniteImageList</string>
+    <string name="no_title">No Title</string>
+    <string name="no_result_from_the_flicker_api">No Result From the Flicker API</string>
+</resources>
